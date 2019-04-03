@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1FFB9DBE17AE60B3BC7CBA6D4C9F5F729C12574F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1FFB9DBE17AE60B3BC7CBA6D4C9F5F729C12574F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2D51666E-C35C-4A78-B0A5-5A6F490E9B3F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1FFB9DBE17AE60B3BC7CBA6D4C9F5F729C12574F" : "LearnGit\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LearnGitDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LearnGitDemo\/LearnGitDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wangy0101\/LearnGit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1FFB9DBE17AE60B3BC7CBA6D4C9F5F729C12574F"
+    }
+  ]
+}
